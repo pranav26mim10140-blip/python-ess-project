@@ -1,64 +1,68 @@
-Student Marks Management System
+ # Student Marks Management System
 
-Introduction
+## Introduction
 
-The Student Marks Management System is a simple Python project made as part of the Vityarthi Python Essentials course.
+The **Student Marks Management System** is a simple Python project developed as part of the **Vityarthi Python Essentials** course.
 
-This program helps users store student names and marks and perform basic operations using a menu.
+This program allows users to store student names and marks and perform basic student record management operations through a menu-driven interface.
 
-Features
+## Features
 
 - Add a new student with marks.
 - Display all student records.
 - Search for a student by name.
 - Calculate the average marks of the class.
 - Find the class topper.
-- Display grades according to marks.
+- Display grades based on marks.
 - Exit the program.
 
-Technologies Used
+## Technologies Used
 
 - Python 3
 - Python Lists
 - Functions
-- If-else statements
-- For loops and While loops
+- Conditional Statements (`if-else`)
+- Loops (`for` and `while`)
 
-Concepts Used
+## Concepts Used
 
-1. Functions: Used to divide the program into smaller parts.
-2. Control Flow Statements: Used to make decisions and control the program.
-3. Lists: Used to store student names and marks.
-4. Loops: Used to repeat tasks and display records.
+1. **Functions:** Divide the program into smaller, reusable parts.
+2. **Control Flow Statements:** Make decisions and control program execution.
+3. **Lists:** Store student names and marks.
+4. **Loops:** Repeat tasks and display student records.
 
-How to Run the Project
+## How to Run the Project
 
-1. Install Python 3 on your computer.
+### Prerequisites
 
-2. Save the program as "student_marks.py".
+Install Python 3 on your computer.
 
-3. Open a terminal or command prompt in the project folder.
+### Steps
 
-4. Run the following command:
-   
-   "python student_marks.py"
+1. Save the Python program as `main.py`.
+2. Open a terminal or command prompt in the project directory.
+3. Run the following command:
 
-5. Select an option from the menu and follow the instructions.
+   ```bash
+   python main.py
+   ```
 
-Example
+4. Select an option from the menu and follow the on-screen instructions.
 
-The user can add a student named Rahul with 85 marks. The program stores the record and displays it when the user selects the Show All Students option.
+## Example
 
-Objective
+A user can add a student named Rahul with 85 marks. The program stores the student's record and displays it when the user selects the **Show All Students** option.
 
-The main objective of this project is to understand basic Python programming and learn how functions, lists, loops, and conditional statements work together.
+## Objective
 
-Conclusion
+The main objective of this project is to understand fundamental Python programming concepts and learn how functions, lists, loops, and conditional statements work together to build a simple application.
 
-This project provides practical experience with basic Python concepts and shows how they can be used to create a simple student record management program.
+## Conclusion
 
-Author
+The Student Marks Management System provides practical experience with basic Python programming concepts and demonstrates how they can be used to create a menu-driven student record management application.
 
-Student Name: [Pranav Parmar]
+## Author
 
-Course: Vityarthi Python Essentials
+- **Name:** Pranav Parmar
+- **Course:** Vityarthi Python Essentials
+
